@@ -1,5 +1,5 @@
 <?php
-$servername = "localhostus-cdbr-east-05.cleardb.net";
+$servername = "us-cdbr-east-05.cleardb.net";
 $username = "b3ad6a10dab11a";
 $password = "d580063c";
 $dbname = "heroku_e0ed7e9fc06918d";
